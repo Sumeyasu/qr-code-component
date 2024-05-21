@@ -1,0 +1,51 @@
+*{
+    padding: 0%;
+    margin: 0%; 
+    background-size: cover;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    max-width: 100%;
+}
+body{
+    width: 100%;
+    background-color: hsl(212, 45%, 89%);
+}
+
+ .central-part{
+    padding: 16px 16px 44px;
+    justify-content: center;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 16px;
+}
+.improve{
+    padding-top: 31px;
+    padding-bottom: 22px;
+    font-size: 13px;
+    color: hsl(218, 44%, 22%);
+}
+
+.entirePg{
+    margin: 152px 561px 150px ;
+}
+.scan{
+    font-size: 9px;
+    color: hsl(220, 15%, 55%);
+}
+.image img{
+    border-radius: 9px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
